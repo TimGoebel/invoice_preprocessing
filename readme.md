@@ -20,7 +20,7 @@ Ensure you have the following Python packages installed:
 You can install the necessary packages using the command:
 
 ```bash
-git clone https://github.com/your-username/pdf-to-image-processor.git
+git clone https://github.com/TimGoebel/pdf-to-image-processor.git
 cd pdf-to-image-processor
 
 └── preprocessing
